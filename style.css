@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+a:hover{
+    color: bisque;
+}
+a:active{
+    color: purple;
+}
+a{
+    scroll-behavior: smooth;
+}
